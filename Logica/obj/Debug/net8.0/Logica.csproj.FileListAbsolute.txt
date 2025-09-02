@@ -1,0 +1,61 @@
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.deps.json
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.pdb
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.dll
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.pdb
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\refint\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.pdb
+D:\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\ref\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.deps.json
+D:\Downloads\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.pdb
+D:\Downloads\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.dll
+D:\Downloads\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.pdb
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\refint\Logica.dll
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.pdb
+D:\Downloads\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\Aprendiz\Downloads\Formulario_CarrosLAG\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\ref\Logica.dll
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.deps.json
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.dll
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Logica.pdb
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.dll
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\bin\Debug\net8.0\Datos.pdb
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.dll
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\refint\Logica.dll
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.pdb
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\ref\Logica.dll
+D:\Desktop\ADSO\5to Trimestre\Arquitectura Software\Capas\Formulario_CarrosLAG\Logica\obj\Debug\net8.0\Logica.sourcelink.json

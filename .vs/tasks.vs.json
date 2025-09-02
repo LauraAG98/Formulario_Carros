@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Datos",
+      "appliesTo": "Formulario_CarrosLAG/Datos/",
+      "type": "launch"
+    }
+  ]
+}
