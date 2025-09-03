@@ -32,7 +32,7 @@ namespace Datos
                 command.CommandText = "USE formulario_carros;";
                 command.ExecuteNonQuery();
 
-                command.CommandText = @"CREATE TABLE IF NOT EXISTS personas (
+                command.CommandText = @"CREATE TABLE IF NOT EXISTS carros (
                                             placa VARCHAR(50) PRIMARY KEY,
                                             modelo VARCHAR(100),
                                             marca VARCHAR(10),
